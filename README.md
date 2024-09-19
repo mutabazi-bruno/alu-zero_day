@@ -1,1 +1,1 @@
-My first readme
+My project - alu_zero_day
